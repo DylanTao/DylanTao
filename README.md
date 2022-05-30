@@ -37,7 +37,7 @@ To learn more about me, please go to <img src="resources/imgs/long-jump.svg" wid
 
 ## Career Status
 
-- I am looking for an full-time position starting April 2023 as Product Manager/ Data Scientist/ ML Engineer/ Software Engineer in AI/ ML/ Data space.
+- I am looking for a full-time position starting April 2023 as Product Manager/ Data Scientist/ ML Engineer/ Software Engineer in AI/ ML/ Data space.
 - Here is my <a href="resources/info/Sirui_Tao_Resume.pdf">resume</a>,  <a href="resources/info/Sirui_Tao_CV.pdf">CV</a>, and <a href="https://dylantao.github.io/">personal website</a>.
 
 ## Fun Facts
