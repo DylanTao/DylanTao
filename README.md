@@ -1,8 +1,8 @@
 ### Greeting, visitors <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 😄
 
 <br> 
-My name is <strong> Sirui Tao </strong>.
-To learn more about me, please <img src="resources/imgs/long-jump.svg" width="34px"> go to 
+My name is <strong>Sirui Tao</strong>.
+To learn more about me, please go to <img src="resources/imgs/long-jump.svg" width="34px">
 <br>
 
 <a href="https://dylantao.github.io/">
@@ -37,7 +37,7 @@ To learn more about me, please <img src="resources/imgs/long-jump.svg" width="34
 
 ## Career Status
 
-- I am looking for an full-time position starting April 2023 as Product Manager/ Data Scientist/ ML Engineer/ Software Engineer in AI/ ML/ Data space</b>
+- I am looking for an full-time position starting April 2023 as Product Manager/ Data Scientist/ ML Engineer/ Software Engineer in AI/ ML/ Data space.
 - Here is my <a href="resources/info/Sirui_Tao_Resume.pdf">resume</a>,  <a href="resources/info/Sirui_Tao_CV.pdf">CV</a>, and <a href="https://dylantao.github.io/">personal website</a>.
 
 ## Fun Facts
