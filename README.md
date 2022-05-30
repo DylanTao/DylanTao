@@ -20,6 +20,7 @@ To learn more about me, please <img src="resources/imgs/long-jump.svg" width="34
 <a href="mailto:dylantaosirui@gmail.com">
   <img align="left" alt="Sirui's email" width="25px" src="resources/imgs/email.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=dylantao.dylantao)
 
 <br />
