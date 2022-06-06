@@ -1,8 +1,10 @@
-### Greeting, visitors <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 😄
+# Greeting, visitors <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25" > 😄
 
 <br> 
-My name is <strong>Sirui Tao</strong>.
-To learn more about me, please <img src="resources/imgs/long-jump.svg" width="20px"> to
+
+#### My name is <strong>Sirui Tao</strong>.
+
+#### To learn more about me, please <img src="resources/imgs/long-jump.svg" width="20px"> to
 
 <a href="https://dylantao.github.io/">
   <img align="left" alt="Sirui's HomePage" width="34px" src="resources/imgs/deadpool.svg" />
@@ -20,6 +22,10 @@ To learn more about me, please <img src="resources/imgs/long-jump.svg" width="20
   <img align="left" alt="Sirui's email" width="34px" src="resources/imgs/email.svg" />
 </a>
 
+<br>
+<br>
+<br>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=dylantao.dylantao)
 
 <br />
@@ -28,7 +34,7 @@ To learn more about me, please <img src="resources/imgs/long-jump.svg" width="20
 
 ## About Me
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
  
 - I am a rising senior at UCSD, double majoring in Data Science and Probability & Statistics, minoring in Economics.
