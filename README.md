@@ -80,7 +80,7 @@
 <a href="https://databricks.com/" target="_blank"> <img src="resources/imgs/databricks-icon.svg" alt="databricks" width="40" height="40"/> </a>
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="resources/imgs/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
 
 
