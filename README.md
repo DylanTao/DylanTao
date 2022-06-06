@@ -112,7 +112,7 @@
 
 ## Subject Knowledge
 - Data Science & Machine Learning Concepts:  
-  - Data Science Life Cycle, Data Visualization, Scalable Analytics, Web Scraping & API, Various Supervised Models, CNN, RNN, MLOps, Responsible AI, Recommender System, Data Mining, Database Management
+  - Data Science Life Cycle, Data Visualization, Scalable Analytics, Web Scraping & API, Various Supervised & Unsupervised Models, CNN, RNN, MLOps, Responsible AI, Recommender System, Data Mining, Database Management
 - Software Engineering Concepts:  
   - Algorithms and complexity, Data Structures, Graph Theory, Regex, DevOps, Product Development & Management, User-centric Design, Scalable and Parallel Computing, Cloud Computing, ML/ DL Systems & Tools
 - Project Management Concepts:  
