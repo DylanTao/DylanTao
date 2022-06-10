@@ -109,6 +109,11 @@
 
 <br>
 
+## Speciality
+<h4 align="left">MLOps</h4>
+<a href="https://ml-ops.org/" target="_blank"> <img src="resources/imgs/mlops-stack.jpg" alt="python" width="683" height="512"/> </a>
+
+(Cited from MLOps <a href="https://ml-ops.org/content/mlops-stack-canvas" target="_blank"></a>)
 
 ## Subject Knowledge
 - Data Science & Machine Learning Concepts:  
