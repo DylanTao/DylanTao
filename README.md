@@ -39,7 +39,7 @@
  
 - I am a rising senior at UCSD, double majoring in Data Science and Probability & Statistics, minoring in Economics.
 - I have industry experience designing Data-centric MLOps solutions for Manufacturing applications and automating data analysis & visualization pipelines. 
-- My research investigates how to enable ML models with an intuitive human-like 3D physical understanding; my interest is in applying them to various downstream tasks in domains including autonomous driving, robotics, design, and architecture.
+- My research investigates how to enable ML models with an intuitive human-like 3D physical understanding. I am interested in its downstream application in various domains, including autonomous driving, robotics, design, and architecture.
 
 <br>
 
@@ -52,12 +52,12 @@
 
 ## Fun Facts
 
-- 🔭 I’m currently working on Data-centric ML system in battery manufacturing during my summer Tesla internship.
-- 🌱 I’m currently learning intuitive physics, deep generative model, robotics, and 3D ML.
+- 🔭 I’m currently working on Data-centric Vision solution at battery manufacturing team during my summer Tesla internship.
+- 🌱 I’m currently learning deep generative model, robotics, and 3D ML.
 - 👯 I’m looking to a gym/ coding buddy.
-- 🤔 I’m looking for help with getting better with AI research and VC.
+- 🤔 I’m looking for help with getting better with AI research.
 - 💬 Ask me about anything data/ AI/ ML or career/ academic, happy to help!
-- 📫 How to reach me: DM me on LinkedIn or Email me
+- 📫 How to reach me: DM me on LinkedIn
 - 😄 Pronouns: He/ him
 - ⚡ Fun fact: If you call my first name, your "Siri" might get activated!
 
