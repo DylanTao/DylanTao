@@ -94,12 +94,14 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="https://raw.githubusercontent.com/AidenHuang01/AidenHuang01/main/resource/images/devops.webp" alt="devops" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="resources/imgs/devops.webp" alt="devops" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="resources/imgs/postman.png" alt="postman" width="40" height="40"/> </a>
 
 
 
 <h4 align="left">Project Management</h4>
 <a href="https://trello.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="resources/imgs/jira.svg" alt="jira" width="40" height="40"/> </a>
 
 
 <h4 align="left">UI/UX</h4>
