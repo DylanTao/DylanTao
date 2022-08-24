@@ -101,6 +101,7 @@
 
 <h4 align="left">Project Management</h4>
 <a href="https://trello.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="resources/imgs/jira.svg" alt="jira" width="40" height="40"/> </a>
 
 
 <h4 align="left">UI/UX</h4>
