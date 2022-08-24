@@ -109,12 +109,6 @@
 
 <br>
 
-## Speciality
-<h4 align="left">MLOps</h4>
-<a href="https://ml-ops.org/" target="_blank"> <img src="resources/imgs/mlops-stack.jpg" alt="python" width="683" height="512"/> </a>
-
-(Cited from <a href="https://ml-ops.org/content/mlops-stack-canvas" target="_blank">MLOps</a>)
-
 ## Subject Knowledge
 - Data Science & Machine Learning Concepts:  
   - Data Science Life Cycle, Data Visualization, Scalable Analytics, Web Scraping & API, Various Supervised & Unsupervised Models, CNN, RNN, GANs, MLOps, Responsible AI, Recommender System, Data Mining, Database Management
@@ -128,4 +122,19 @@
   - Micro & Macro Economics, Behavioral Economics, Game Theory, Financial Theory, Portfolio Theory, Financial Statement Analysis, Financial Performance Analysis, Corporate Finance, Option Trading, Decentralized Finance
 - Domain-Specific Concepts:
   - IoT, Blockchain Economics, Engine/ Battery-Cell Manufacturing
+
+## Certificates
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8GPUUPZZQ8YY" target="_blank"> Google Data Analytics Specialization </a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RXHK8XEFDL8L" target="_blank"> Google Project Management Specialization </a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QAEUPWZX6NRM" target="_blank"> Organizational Change and Culture for Adopting Google Cloud Specialization </a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CBU2LM32VQ3U" target="_blank"> Google Cloud Digital Leader Training Specialization</a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZKWYCXC2YQ9Y" target="_blank"> Finance & Quantitative Modeling for Analysts Specialization</a>
+- <a href="https://dylantao.github.io/images/online/Akuna/Sirui Tao Akuna_101_Certificate.pdf" target="_blank"> Akuna Capital Options 101</a>  |  <a href="https://dylantao.github.io/images/online/Akuna/Sirui Tao Akuna_201_Certificate.pdf" target="_blank"> Akuna Capital Options 201</a> 
+
+## Speciality
+<h4 align="left">MLOps</h4>
+<a href="https://ml-ops.org/" target="_blank"> <img src="resources/imgs/mlops-stack.jpg" alt="python" width="683" height="512"/> </a>
+
+(Cited from <a href="https://ml-ops.org/content/mlops-stack-canvas" target="_blank">MLOps</a>)
+
 
