@@ -38,7 +38,7 @@
 
  
 - I am a rising senior at UCSD, double majoring in Data Science and Probability & Statistics, minoring in Economics.
-- I have industry experience designing Data-centric MLOps solutions for Manufacturing applications and automating data analysis & visualization pipelines. 
+- I have industry experience designing end-to-end advanced Statistical Process Control tools, quality disposition tools, and data-centric MLOps solutions for Manufacturing applications. Besides that, I have deployed multiple ETL pipelines, automated data analysis processes, and created customized visualization tools for various data sources in different modalities. 
 - My research investigates how to enable ML models with an intuitive human-like 3D physical understanding. I am interested in its downstream application in various domains, including autonomous driving, robotics, design, and architecture.
 
 <br>
@@ -77,6 +77,8 @@
 <a href="https://d3js.org/" target="_blank"> <img src="resources/imgs/d3js.svg" alt="d3.js" width="40" height="40"/> </a>
 <a href="https://docs.dask.org/" target="_blank"> <img src="resources/imgs/dask.svg" alt="dask" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/> </a>
+<a href="https://clickhouse.com/" target="_blank"> <img src="resources/imgs/clickhouse.png" alt="clickhouse" width="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="resources/imgs/mysql.svg" alt="mysql" width="40"/> </a>
 <a href="https://databricks.com/" target="_blank"> <img src="resources/imgs/databricks-icon.svg" alt="databricks" width="40" height="40"/> </a>
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/> </a>
@@ -95,8 +97,8 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="resources/imgs/devops.webp" alt="devops" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="resources/imgs/postman.png" alt="postman" width="40" height="40"/> </a>
-
+<a href="https://www.postman.com/" target="_blank"> <img src="resources/imgs/postman.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="resources/imgs/docker.png" alt="postman" width="40"/> </a>
 
 
 <h4 align="left">Project Management</h4>
