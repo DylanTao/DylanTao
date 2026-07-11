@@ -28,9 +28,9 @@
     <label>Time range<select id="range"><option value="1">1 year</option><option value="3">3 years</option><option value="5" selected>5 years</option><option value="all">All</option></select></label>
   </div>
   <div class="stats" aria-label="Selected range totals">
-    <div class="stat"><span class="muted">Added</span><strong id="added">â€”</strong></div>
-    <div class="stat"><span class="muted">Removed</span><strong id="deleted">â€”</strong></div>
-    <div class="stat"><span class="muted">Active weeks</span><strong id="active">â€”</strong></div>
+    <div class="stat"><span class="muted">Added</span><strong id="added">—</strong></div>
+    <div class="stat"><span class="muted">Removed</span><strong id="deleted">—</strong></div>
+    <div class="stat"><span class="muted">Active weeks</span><strong id="active">—</strong></div>
   </div>
   <div class="chart">
     <svg id="chart" viewBox="0 0 1000 500" role="img" aria-label="Interactive weekly additions and deletions chart"></svg>
@@ -65,8 +65,8 @@
     const css=getComputedStyle(document.documentElement), colors={grid:css.getPropertyValue('--grid'),muted:css.getPropertyValue('--muted'),green:css.getPropertyValue('--green'),red:css.getPropertyValue('--red'),border:css.getPropertyValue('--border')};
     const line=(x1,y1,x2,y2,stroke=colors.grid)=>svg.append(el('line',{x1,y1,x2,y2,stroke,'stroke-width':1}));
     const text=(value,xv,yv,anchor='end')=>{const n=el('text',{x:xv,y:yv,'text-anchor':anchor,fill:colors.muted,'font-size':mobile?11:12,'font-family':'system-ui'});n.textContent=value;svg.append(n)};
-    if(scaleSelect.value==='symlog'){for(const tick of [10,100,1000,10000,100000,1000000,10000000]){if(tick>max)break;for(const sign of [1,-1]){const yy=y(sign*tick);line(L,yy,W-R,yy);text((sign>0?'+':'âˆ’')+short.format(tick),L-8,yy+4)}}}
-    else{for(let i=-4;i<=4;i++){const value=max*i/4,yy=y(value);line(L,yy,W-R,yy);text((value>0?'+':value<0?'âˆ’':'')+short.format(Math.abs(value)),L-8,yy+4)}}
+    if(scaleSelect.value==='symlog'){for(const tick of [10,100,1000,10000,100000,1000000,10000000]){if(tick>max)break;for(const sign of [1,-1]){const yy=y(sign*tick);line(L,yy,W-R,yy);text((sign>0?'+':'−')+short.format(tick),L-8,yy+4)}}}
+    else{for(let i=-4;i<=4;i++){const value=max*i/4,yy=y(value);line(L,yy,W-R,yy);text((value>0?'+':value<0?'−':'')+short.format(Math.abs(value)),L-8,yy+4)}}
     const years=[...new Set(data.map(d=>d.date.getUTCFullYear()))];
     for(const year of years){const d=new Date(Date.UTC(year,0,1));if(d< data[0].date||d>data.at(-1).date)continue;const xx=x(d);line(xx,T,xx,H-B);text(String(year),xx,H-25,'middle')}
     line(L,base,W-R,base,colors.border);
@@ -74,14 +74,14 @@
     area('additions',1,colors.green); area('deletions',-1,colors.red);
     const guide=el('line',{y1:T,y2:H-B,stroke:colors.muted,'stroke-width':1,visibility:'hidden'});svg.append(guide);
     const overlay=el('rect',{class:'inspect-overlay',x:L,y:T,width:W-L-R,height:H-B-T,fill:'transparent',tabindex:0,role:'slider','aria-label':'Weekly activity inspector. Use left and right arrow keys.','aria-valuemin':0,'aria-valuemax':data.length-1});svg.append(overlay);
-    const showIndex=index=>{inspectionIndex=Math.max(0,Math.min(data.length-1,index));const row=data[inspectionIndex],xx=x(row.date),value=`Week of ${row.week} Â· +${fmt.format(row.additions)} added Â· âˆ’${fmt.format(row.deletions)} removed`;guide.setAttribute('x1',xx);guide.setAttribute('x2',xx);guide.setAttribute('visibility','visible');overlay.setAttribute('aria-valuenow',inspectionIndex);overlay.setAttribute('aria-valuetext',value);detail.textContent=value;};
+    const showIndex=index=>{inspectionIndex=Math.max(0,Math.min(data.length-1,index));const row=data[inspectionIndex],xx=x(row.date),value=`Week of ${row.week} · +${fmt.format(row.additions)} added · −${fmt.format(row.deletions)} removed`;guide.setAttribute('x1',xx);guide.setAttribute('x2',xx);guide.setAttribute('visibility','visible');overlay.setAttribute('aria-valuenow',inspectionIndex);overlay.setAttribute('aria-valuetext',value);detail.textContent=value;};
     const inspect=event=>{const box=svg.getBoundingClientRect(),px=((event.clientX-box.left)/box.width)*W,target=start+Math.max(0,Math.min(1,(px-L)/(W-L-R)))*span;let best=0;for(let i=1;i<data.length;i++)if(Math.abs(data[i].date-target)<Math.abs(data[best].date-target))best=i;showIndex(best);};
     overlay.addEventListener('pointermove',inspect);overlay.addEventListener('pointerdown',event=>{inspect(event);overlay.focus();});overlay.addEventListener('pointerleave',()=>{if(document.activeElement!==overlay)guide.setAttribute('visibility','hidden')});
     overlay.addEventListener('focus',()=>showIndex(inspectionIndex<0?data.length-1:inspectionIndex));
     overlay.addEventListener('blur',()=>guide.setAttribute('visibility','hidden'));
     overlay.addEventListener('keydown',event=>{let next=inspectionIndex<0?data.length-1:inspectionIndex;if(event.key==='ArrowLeft')next--;else if(event.key==='ArrowRight')next++;else if(event.key==='Home')next=0;else if(event.key==='End')next=data.length-1;else return;event.preventDefault();showIndex(next);});
     document.getElementById('added').textContent='+'+short.format(data.reduce((s,d)=>s+d.additions,0));
-    document.getElementById('deleted').textContent='âˆ’'+short.format(data.reduce((s,d)=>s+d.deletions,0));
+    document.getElementById('deleted').textContent='−'+short.format(data.reduce((s,d)=>s+d.deletions,0));
     document.getElementById('active').textContent=fmt.format(data.filter(d=>d.additions||d.deletions).length);
   }
   scaleSelect.addEventListener('change',draw);rangeSelect.addEventListener('change',draw);
