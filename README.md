@@ -6,7 +6,7 @@
 
 ![Aggregate GitHub activity metrics](./assets/github-metrics.svg)
 
-_Automatically updated each week from aggregate repository statistics. Repository names are not published._
+_Automatically updated each week. Lines are filtered to commits attributed to `DylanTao` across owned public and private repositories; repository names are not published._
 
 <!--
 ### Stats for nerds
