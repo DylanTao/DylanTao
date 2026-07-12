@@ -4,9 +4,9 @@
 
 ## GitHub activity
 
-[![Weekly lines added and removed on an outlier-aware readable scale; click for the interactive chart.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Five-year weekly GitHub activity showing commits, additions, and deletions on aligned readable-log panels.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Updated weekly from GitHub's default-branch contributor statistics for commits attributed to `DylanTao` across owned public and private repositories. The static five-year view uses a symmetric-log scale so ordinary weeks remain visible beside unusually large changes; click it for exact weekly values, 1/3/5/all ranges, and a literal linear view. Lines touched show change volume, not productivity, and repository names are not published._
+_Updated weekly from GitHub default-branch activity statistics for commits attributed to `DylanTao` across owned public and private repositories. The static five-year card uses independent readable-log axes for commits and signed line changes so ordinary weeks remain visible beside outliers; the linked site provides exact weekly values, selectable ranges, and readable/literal scale controls. Activity volume is not productivity, and repository names are not published._
 
 <!--
 ### Stats for nerds
