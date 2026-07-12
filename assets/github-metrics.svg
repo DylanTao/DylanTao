@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
   <title id="title">Build rhythm: GitHub weekly commits and code changes</title>
-  <desc id="desc">Build rhythm: weekly commits, line additions, and line deletions from owned repositories&#x27; default branches, using GitHub contributor statistics for 2021-07-11 through 2026-07-05. The commit panel uses a zero-preserving log1p scale; the line panel uses a signed symmetric-log scale. Total commits 2,938; total additions 29,104,554; total deletions 28,513,917; 159 active weeks. Highest commit week Jun 28, 2026: 795 commits. Largest line-change week Jul 5, 2026: 24,222,547 additions and 21,992,716 deletions.</desc>
+  <desc id="desc">Build rhythm: weekly GitHub activity across the default branches of owned repositories, 2021-07-11 through 2026-07-05. The upper panel shows commits; the lower shows additions and deletions. Readable-log scales keep quiet weeks visible beside outliers. Totals: 2,938 commits, 29,104,554 additions, 28,513,917 deletions, and 159 active weeks. Highest commit week Jun 28, 2026: 795 commits. Largest line-change week Jul 5, 2026: 24,222,547 additions and 21,992,716 deletions.</desc>
   <style>
     :root{color-scheme:light dark;--bg:#fffefd;--fg:#211a16;--muted:#6d6a62;--surface:#fffaf6;--border:rgba(90,88,72,.18);--grid:rgba(90,88,72,.14);--add:#357f9e;--remove:#387768;--accent:#b84f12;}
     @media(prefers-color-scheme:dark){:root{--bg:#12181b;--fg:#f7f1ea;--muted:#c8d0cc;--surface:#171e21;--border:rgba(154,196,205,.22);--grid:rgba(154,196,205,.14);--add:#b8e2f0;--remove:#b4e4d0;--accent:#ffb15f;}}
@@ -28,7 +28,7 @@
   <rect width="900" height="560" rx="9" fill="var(--bg)" stroke="var(--border)"/>
   <text class="eyebrow mono" x="24" y="27">GITHUB ACTIVITY</text>
   <text class="title" x="24" y="58">Build rhythm</text>
-  <text class="muted" x="24" y="79">Weekly default-branch activity · Jul 11, 2021–Jul 5, 2026 · readable log scales</text>
+  <text class="muted" x="24" y="79">Weekly commits + lines changed · Jul 11, 2021–Jul 5, 2026 · readable view</text>
   <text class="summary" x="24" y="113" fill="var(--accent)">2.9k commits</text>
   <text class="summary" x="225" y="113" fill="var(--add)">+29.1M added</text>
   <text class="summary" x="430" y="113" fill="var(--remove)">−28.5M removed</text>
@@ -57,5 +57,5 @@
   <circle class="peak-dot peak-add-dot" cx="860.52" cy="301.00" r="4" stroke="var(--add)"/>
   <circle class="peak-dot peak-remove-dot" cx="860.52" cy="478.49" r="4" stroke="var(--remove)"/>
   <text class="muted mono" x="24" y="543">Typical active week · 2k lines changed (median) · Updated Jul 12, 2026</text>
-  <text class="muted" x="876" y="543" text-anchor="end">Activity volume, not productivity</text>
+  <text class="muted" x="876" y="543" text-anchor="end">Code changed, week by week</text>
 </svg>
