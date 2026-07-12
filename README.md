@@ -6,7 +6,7 @@
 
 [![Five-year weekly GitHub activity showing commits, additions, and deletions on aligned readable-log panels.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Updated weekly from GitHub default-branch activity statistics for commits attributed to `DylanTao` across owned public and private repositories. The static five-year card uses independent readable-log axes for commits and signed line changes so ordinary weeks remain visible beside outliers; the linked site provides exact weekly values, selectable ranges, and readable/literal scale controls. Activity volume is not productivity, and repository names are not published._
+_A five-year pulse of my default-branch GitHub work—public and private, rolled up by week. Huge code drops bend the scale, so the card keeps quieter weeks readable; click through for exact numbers and the literal view._
 
 <!--
 ### Stats for nerds
