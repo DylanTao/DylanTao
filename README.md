@@ -4,9 +4,9 @@
 
 ## GitHub activity
 
-[![Five-year weekly GitHub activity showing commits, additions, and deletions on aligned readable-log panels.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Five years of GitHub commits and lines changed, week by week.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_A five-year pulse of my default-branch GitHub work—public and private, rolled up by week. Huge code drops bend the scale, so the card keeps quieter weeks readable; click through for exact numbers and the literal view._
+_Five years of commits and lines changed. The spikes are real; the scale just lets the quieter weeks show up too._
 
 <!--
 ### Stats for nerds
