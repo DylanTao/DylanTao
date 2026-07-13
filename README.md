@@ -4,9 +4,9 @@
 
 ## Codex + GitHub
 
-[![Thirty daily Codex token points and five years of weekly GitHub commits and lines changed.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Two independent timelines: 30 days of daily Codex tokens and five years of weekly GitHub commits and lines changed.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Codex is daily for the last 30 days; GitHub is weekly across five years. Click the card for exact values and controls._
+_Two separate horizons: Codex is daily for the last 30 days; GitHub is weekly across five years. Click the card for exact values and controls._
 
 <!--
 ### Stats for nerds
