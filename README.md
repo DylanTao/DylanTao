@@ -2,11 +2,11 @@
 
 #### Sirui is pronounced as <strong>"three"</strong>.
 
-## GitHub activity
+## Codex + GitHub
 
-[![Five years of GitHub commits and lines changed, week by week.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Thirty daily Codex token points and five years of weekly GitHub commits and lines changed.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Five years of commits and lines changed. The spikes are real; the scale just lets the quieter weeks show up too._
+_Codex is daily for the last 30 days; GitHub is weekly across five years. Click the card for exact values and controls._
 
 <!--
 ### Stats for nerds
