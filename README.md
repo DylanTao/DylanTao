@@ -4,9 +4,9 @@
 
 ## Codex + GitHub
 
-[![Two independent timelines: 30 days of daily Codex tokens and five years of weekly GitHub commits and lines changed.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Anonymous health for two direct Codex accounts plus five years of weekly GitHub commits and lines changed.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Two separate horizons: Codex is daily for the last 30 days; GitHub is weekly across five years. Click the card for exact values and controls._
+_Codex shows the last complete anonymous two-account quota-health observation and a separate non-additive 20.9B Personal rounded checkpoint; GitHub is weekly across five years. Click the card for exact values and controls._
 
 <!--
 ### Stats for nerds
