@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="660" viewBox="0 0 900 660" role="img" aria-labelledby="title desc" data-codex-updated-at="2026-07-16T12:36:45.397872Z" data-codex-coverage="complete" data-github-generated-at="2026-07-16T10:22:21+00:00" data-github-last-week="2026-07-12">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="660" viewBox="0 0 900 660" role="img" aria-labelledby="title desc" data-codex-updated-at="2026-07-16T13:41:45.534539Z" data-codex-coverage="complete" data-github-generated-at="2026-07-16T10:22:21+00:00" data-github-last-week="2026-07-12">
   <title id="title">Build rhythm: direct Codex health and GitHub activity</title>
-  <desc id="desc">Build rhythm contains two independent measures: anonymous, non-additive direct Codex quota health and aggregate weekly GitHub activity. Direct Codex quota health for two anonymous accounts. Last complete 2026-07-16 12:36 UTC · 2 healthy · 2 fresh · 2 quota-observed Accounts at limit are unknown because the sanitized collector does not expose that count. Quota windows remain per-account and non-additive. The Personal 20.9B token rounded checkpoint was captured July 12, 2026, covers one of two accounts, and is not a combined lifetime. GitHub activity, last five years at weekly grain. Totals: 3,058 commits, 29,354,348 additions, 28,548,651 deletions, and 161 active weeks.</desc>
+  <desc id="desc">Build rhythm contains two independent measures: anonymous, non-additive direct Codex quota health and aggregate weekly GitHub activity. Direct Codex quota health for two anonymous accounts. Last complete 2026-07-16 13:41 UTC · 2 healthy · 2 fresh · 2 quota-observed Accounts at limit are unknown because the sanitized collector does not expose that count. Quota windows remain per-account and non-additive. The Personal 20.9B token rounded checkpoint was captured July 12, 2026, covers one of two accounts, and is not a combined lifetime. GitHub activity, last five years at weekly grain. Totals: 3,058 commits, 29,354,348 additions, 28,548,651 deletions, and 161 active weeks.</desc>
   <style>
     :root{color-scheme:light dark;--bg:#fffefd;--fg:#211a16;--muted:#6d6a62;--surface:#fffaf6;--border:rgba(90,88,72,.18);--grid:rgba(90,88,72,.14);--codex:#a34974;--add:#357f9e;--remove:#387768;--accent:#b84f12;}
     @media(prefers-color-scheme:dark){:root{--bg:#12181b;--fg:#f7f1ea;--muted:#c8d0cc;--surface:#171e21;--border:rgba(154,196,205,.22);--grid:rgba(154,196,205,.14);--codex:#f2a6c8;--add:#b8e2f0;--remove:#b4e4d0;--accent:#ffb15f;}}
@@ -24,7 +24,7 @@
   <text class="title" x="24" y="58">Build rhythm</text>
   <text class="muted" x="24" y="77">Anonymous quota health and long-term aggregate contribution history</text>
   <g class="codex-module" role="group" aria-labelledby="codex-module-title codex-module-desc">
-    <desc id="codex-module-desc">Direct Codex quota health for two anonymous accounts. Last complete 2026-07-16 12:36 UTC · 2 healthy · 2 fresh · 2 quota-observed Accounts at limit are unknown because the sanitized collector does not expose that count. Quota windows remain per-account and non-additive. The Personal 20.9B token rounded checkpoint was captured July 12, 2026, covers one of two accounts, and is not a combined lifetime.</desc>
+    <desc id="codex-module-desc">Direct Codex quota health for two anonymous accounts. Last complete 2026-07-16 13:41 UTC · 2 healthy · 2 fresh · 2 quota-observed Accounts at limit are unknown because the sanitized collector does not expose that count. Quota windows remain per-account and non-additive. The Personal 20.9B token rounded checkpoint was captured July 12, 2026, covers one of two accounts, and is not a combined lifetime.</desc>
     <rect class="module-frame" x="20" y="88" width="860" height="204" rx="7"/>
     <text id="codex-module-title" class="module-heading mono" x="36" y="113" fill="var(--codex)">DIRECT CODEX TRACKER</text>
     <rect class="scope-badge" x="690" y="98" width="174" height="22" rx="11"/>
@@ -48,7 +48,7 @@
     <text class="muted mono" x="850" y="174" text-anchor="end">AT LIMIT · UNKNOWN</text>
     <text class="muted" x="850" y="197" text-anchor="end">confidence · high</text>
     <text class="muted" x="36" y="244">Personal rounded checkpoint · 20.9B tokens · 1 of 2 accounts · not combined</text>
-    <text class="muted mono" x="36" y="269">Last complete 2026-07-16 12:36 UTC · 2 healthy · 2 fresh · 2 quota-observed</text>
+    <text class="muted mono" x="36" y="269">Last complete 2026-07-16 13:41 UTC · 2 healthy · 2 fresh · 2 quota-observed</text>
   </g>
   <g class="github-module" role="group" aria-labelledby="github-module-title github-module-desc">
     <desc id="github-module-desc">GitHub activity, last five years at weekly grain. Totals: 3,058 commits, 29,354,348 additions, 28,548,651 deletions, and 161 active weeks.</desc>
