@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="660" viewBox="0 0 900 660" role="img" aria-labelledby="title desc" data-codex-source-as-of="2026-07-19T16:32:25.979094Z" data-codex-provenance="automated" data-codex-token-count="39300000000" data-github-generated-at="2026-07-19T07:12:35+00:00" data-github-last-week="2026-07-19">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="660" viewBox="0 0 900 660" role="img" aria-labelledby="title desc" data-codex-source-as-of="2026-07-19T20:47:27.802400Z" data-codex-provenance="automated" data-codex-token-count="40500000000" data-github-generated-at="2026-07-19T07:12:35+00:00" data-github-last-week="2026-07-19">
   <title id="title">Build rhythm: Codex lifetime and GitHub activity</title>
-  <desc id="desc">Build rhythm contains a rounded combined Codex lifetime and aggregate weekly GitHub activity. Combined Codex lifetime: 39.3B tokens, rounded to the nearest 0.1 billion and observed Jul 19, 2026. It is combined before publication; per-source readings and identities are not published. Provenance: automatic refresh. GitHub activity, last five years at weekly grain. Totals: 3,109 commits, 30,221,594 additions, 30,436,861 deletions, and 159 active weeks.</desc>
+  <desc id="desc">Build rhythm contains a rounded combined Codex lifetime and aggregate weekly GitHub activity. Combined Codex lifetime: 40.5B tokens, rounded to the nearest 0.1 billion and observed Jul 19, 2026. It is combined before publication; per-source readings and identities are not published. Provenance: automatic refresh. GitHub activity, last five years at weekly grain. Totals: 3,109 commits, 30,221,594 additions, 30,436,861 deletions, and 159 active weeks.</desc>
   <style>
     :root{color-scheme:light dark;--bg:#fffefd;--fg:#211a16;--muted:#6d6a62;--surface:#fffaf6;--border:rgba(90,88,72,.18);--grid:rgba(90,88,72,.14);--codex:#a34974;--add:#357f9e;--remove:#387768;--accent:#b84f12;}
     @media(prefers-color-scheme:dark){:root{--bg:#12181b;--fg:#f7f1ea;--muted:#c8d0cc;--surface:#171e21;--border:rgba(154,196,205,.22);--grid:rgba(154,196,205,.14);--codex:#f2a6c8;--add:#b8e2f0;--remove:#b4e4d0;--accent:#ffb15f;}}
@@ -24,14 +24,14 @@
   <text class="title" x="24" y="58">Build rhythm</text>
   <text class="muted" x="24" y="77">Rounded Codex lifetime and long-term aggregate contribution history</text>
   <g class="codex-module" role="group" aria-labelledby="codex-module-title codex-module-desc">
-    <desc id="codex-module-desc">Combined Codex lifetime: 39.3B tokens, rounded to the nearest 0.1 billion and observed Jul 19, 2026. It is combined before publication; per-source readings and identities are not published. Provenance: automatic refresh.</desc>
+    <desc id="codex-module-desc">Combined Codex lifetime: 40.5B tokens, rounded to the nearest 0.1 billion and observed Jul 19, 2026. It is combined before publication; per-source readings and identities are not published. Provenance: automatic refresh.</desc>
     <rect class="module-frame" x="20" y="88" width="860" height="204" rx="7"/>
     <text id="codex-module-title" class="module-heading mono" x="36" y="113" fill="var(--codex)">CODEX LIFETIME</text>
     <rect class="scope-badge" x="690" y="98" width="174" height="22" rx="11"/>
     <text class="scope-label mono" x="777" y="113" text-anchor="middle">COMBINED · ROUNDED</text>
     <rect class="lifetime-card" x="36" y="137" width="828" height="104" rx="6"/>
     <text class="metric-label mono" x="56" y="162">COMBINED LIFETIME</text>
-    <text class="metric-value" x="56" y="202">39.3B tokens</text>
+    <text class="metric-value" x="56" y="202">40.5B tokens</text>
     <text class="summary" x="844" y="181" text-anchor="end" fill="var(--codex)">Observed Jul 19, 2026</text>
     <text class="muted" x="844" y="207" text-anchor="end">automatic refresh</text>
     <text class="muted" x="36" y="269">Nearest 0.1B · summed before publication · no per-source readings</text>
