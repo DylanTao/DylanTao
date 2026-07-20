@@ -4,9 +4,9 @@
 
 ## Codex + GitHub
 
-[![Anonymous health for two direct Codex accounts plus five years of weekly GitHub commits and lines changed.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Rounded combined-lifetime Codex snapshot, repo-scoped site-build token rhythm, and five years of weekly GitHub activity.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Codex shows the last complete anonymous two-account quota-health observation and a separate non-additive 20.9B Personal rounded checkpoint; GitHub is weekly across five years. Click the card for exact values and controls._
+_Three independent scopes: a rounded combined-lifetime Codex snapshot, a repo-scoped estimate of site-build token rhythm, and five years of weekly GitHub activity. Open the card for Build Rhythm details and controls._
 
 <!--
 ### Stats for nerds
