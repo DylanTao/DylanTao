@@ -4,9 +4,9 @@
 
 ## Codex + GitHub
 
-[![Rounded combined-lifetime Codex snapshot, repo-scoped site-build token rhythm, and five years of weekly GitHub activity.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Rounded combined-lifetime Codex snapshot, daily retained-work and website token rhythms, and five years of weekly GitHub activity; every chart names its y-axis transform.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Three independent scopes: a rounded combined-lifetime Codex snapshot, a repo-scoped estimate of site-build token rhythm, and five years of weekly GitHub activity. Open the card for Build Rhythm details and controls._
+_Three modules: a rounded combined-lifetime snapshot; a daily comparison of all retained Codex work with the website subset; and five years of weekly GitHub activity. The static card labels every y-axis; open it for per-day hover details and an explained rough public-API price replay (not an actual bill)._
 
 <!--
 ### Stats for nerds
