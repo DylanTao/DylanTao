@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="660" viewBox="0 0 900 660" role="img" aria-labelledby="title desc" data-codex-source-as-of="2026-07-22T14:02:30.599337Z" data-codex-provenance="automated" data-codex-token-count="48800000000" data-lifetime-history-updated-at="2026-07-22T14:05:10Z" data-lifetime-history-point-count="21" data-lifetime-history-token-count="48800000000" data-lifetime-history-digest="f8277cecccc657cc84e433f1bde6645468237605ea128d88cd89c1188e4b882e" data-github-generated-at="2026-07-22T22:29:48+00:00" data-github-last-week="2026-07-19">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="660" viewBox="0 0 900 660" role="img" aria-labelledby="title desc" data-codex-source-as-of="2026-07-23T00:02:49.015599Z" data-codex-provenance="automated" data-codex-token-count="48900000000" data-lifetime-history-updated-at="2026-07-23T00:05:40Z" data-lifetime-history-point-count="22" data-lifetime-history-token-count="48900000000" data-lifetime-history-digest="bac59987e957e1b3c070c93de52280a4d4bf6a6520ac051f8dcd11f99ef86083" data-github-generated-at="2026-07-22T22:29:48+00:00" data-github-last-week="2026-07-19">
   <title id="title">Build rhythm: combined Codex lifetime and GitHub activity</title>
-  <desc id="desc">Build rhythm contains two independent scopes: rounded combined Codex lifetime checkpoints and aggregate weekly GitHub activity. Combined Codex lifetime: 48.8B tokens, rounded to the nearest 0.1 billion and observed Jul 22, 2026. It is combined before publication; per-source readings and identities are not published. Provenance: automatic refresh. Combined lifetime checkpoint history: 21 distinct, irregular public checkpoints from 32.8B to 48.8B, first published Jul 17, 2026 and last published Jul 22, 2026. It is derived only from previously public sanitized schema-3 snapshots; source identities and per-source readings are not published. GitHub activity, last five years at weekly grain. Totals: 3,201 commits, 31,565,587 additions, 30,951,173 deletions, and 160 active weeks. The commit axis uses log1p; the signed additions and deletions axis uses symmetric log.</desc>
+  <desc id="desc">Build rhythm contains two independent scopes: rounded combined Codex lifetime checkpoints and aggregate weekly GitHub activity. Combined Codex lifetime: 48.9B tokens, rounded to the nearest 0.1 billion and observed Jul 23, 2026. It is combined before publication; per-source readings and identities are not published. Provenance: automatic refresh. Combined lifetime checkpoint history: 22 distinct, irregular public checkpoints from 32.8B to 48.9B, first published Jul 17, 2026 and last published Jul 23, 2026. It is derived only from previously public sanitized schema-3 snapshots; source identities and per-source readings are not published. GitHub activity, last five years at weekly grain. Totals: 3,201 commits, 31,565,587 additions, 30,951,173 deletions, and 160 active weeks. The commit axis uses log1p; the signed additions and deletions axis uses symmetric log.</desc>
   <style>
     :root{color-scheme:light dark;--bg:#fffefa;--fg:#1f252a;--muted:#657079;--surface:#fbfcfc;--scope:#e7eff8;--border:rgba(59,106,152,.22);--grid:rgba(59,106,152,.14);--codex:#2c5074;--history:#3b6a98;--add:#3b6a98;--remove:#2c5074;--accent:#3b6a98;}
     @media(prefers-color-scheme:dark){:root{--bg:#111c22;--fg:#f3f4f6;--muted:#c2c8cf;--surface:#18252b;--scope:#2b2942;--border:rgba(183,178,227,.28);--grid:rgba(183,178,227,.16);--codex:#d2cef2;--history:#b7b2e3;--add:#b7b2e3;--remove:#d2cef2;--accent:#b7b2e3;}}
@@ -26,7 +26,7 @@
   <text class="title" x="24" y="58">Build rhythm</text>
   <text class="muted" x="24" y="77">Two privacy-safe scopes, kept deliberately separate</text>
   <g class="codex-module" role="group" aria-labelledby="codex-module-title codex-module-desc">
-    <desc id="codex-module-desc">Combined Codex lifetime: 48.8B tokens, rounded to the nearest 0.1 billion and observed Jul 22, 2026. It is combined before publication; per-source readings and identities are not published. Provenance: automatic refresh. Combined lifetime checkpoint history: 21 distinct, irregular public checkpoints from 32.8B to 48.8B, first published Jul 17, 2026 and last published Jul 22, 2026. It is derived only from previously public sanitized schema-3 snapshots; source identities and per-source readings are not published.</desc>
+    <desc id="codex-module-desc">Combined Codex lifetime: 48.9B tokens, rounded to the nearest 0.1 billion and observed Jul 23, 2026. It is combined before publication; per-source readings and identities are not published. Provenance: automatic refresh. Combined lifetime checkpoint history: 22 distinct, irregular public checkpoints from 32.8B to 48.9B, first published Jul 17, 2026 and last published Jul 23, 2026. It is derived only from previously public sanitized schema-3 snapshots; source identities and per-source readings are not published.</desc>
     <rect class="module-frame" x="20" y="88" width="860" height="204" rx="7"/>
     <text id="codex-module-title" class="module-heading mono" x="36" y="113">CODEX LIFETIME</text>
     <g class="lifetime-snapshot" role="group" aria-label="Rounded combined lifetime snapshot">
@@ -34,8 +34,8 @@
       <rect class="scope-badge" x="52" y="140" width="156" height="20" rx="10"/>
       <text class="scope-label mono" x="130" y="154" text-anchor="middle">COMBINED · ROUNDED</text>
       <text class="metric-label mono" x="52" y="177">CODEX LIFETIME</text>
-      <text class="metric-value" x="52" y="214">48.8B tokens</text>
-      <text class="muted" x="406" y="183" text-anchor="end">Observed Jul 22, 2026</text>
+      <text class="metric-value" x="52" y="214">48.9B tokens</text>
+      <text class="muted" x="406" y="183" text-anchor="end">Observed Jul 23, 2026</text>
       <text class="muted" x="406" y="207" text-anchor="end">automatic refresh</text>
     </g>
     <g class="lifetime-history" role="group" aria-label="Rounded combined lifetime checkpoint history">
@@ -43,13 +43,13 @@
       <rect class="scope-badge" x="450" y="140" width="204" height="20" rx="10"/>
       <text class="scope-label mono" x="552" y="154" text-anchor="middle">PUBLIC CHECKPOINTS · ROUNDED</text>
       <text class="metric-label mono" x="450" y="177">COMBINED LIFETIME TREND</text>
-      <text class="history-value" x="840" y="178" text-anchor="end">48.8B</text>
-      <path class="history-area" d="M 462.00 225.00 L 462.00 200.13 L 584.59 195.43 L 618.91 195.35 L 631.65 195.20 L 644.39 194.29 L 653.89 192.93 L 663.38 192.78 L 669.62 192.70 L 682.36 192.62 L 691.86 192.55 L 694.85 192.47 L 701.10 192.40 L 710.09 192.32 L 713.93 192.25 L 734.33 191.79 L 737.33 191.64 L 796.93 190.88 L 806.76 190.65 L 827.76 189.36 L 833.75 188.45 L 840.00 188.00 L 840.00 225.00 Z"/>
-      <path class="history-line" d="M 462.00 200.13 L 584.59 195.43 L 618.91 195.35 L 631.65 195.20 L 644.39 194.29 L 653.89 192.93 L 663.38 192.78 L 669.62 192.70 L 682.36 192.62 L 691.86 192.55 L 694.85 192.47 L 701.10 192.40 L 710.09 192.32 L 713.93 192.25 L 734.33 191.79 L 737.33 191.64 L 796.93 190.88 L 806.76 190.65 L 827.76 189.36 L 833.75 188.45 L 840.00 188.00"/>
+      <text class="history-value" x="840" y="178" text-anchor="end">48.9B</text>
+      <path class="history-area" d="M 462.00 225.00 L 462.00 200.18 L 575.58 195.49 L 607.37 195.42 L 619.17 195.26 L 630.98 194.36 L 639.77 192.99 L 648.57 192.84 L 654.36 192.77 L 666.16 192.69 L 674.95 192.62 L 677.73 192.54 L 683.52 192.46 L 691.85 192.39 L 695.41 192.31 L 714.31 191.86 L 717.08 191.71 L 772.30 190.95 L 781.40 190.72 L 800.86 189.44 L 806.42 188.53 L 812.20 188.08 L 840.00 188.00 L 840.00 225.00 Z"/>
+      <path class="history-line" d="M 462.00 200.18 L 575.58 195.49 L 607.37 195.42 L 619.17 195.26 L 630.98 194.36 L 639.77 192.99 L 648.57 192.84 L 654.36 192.77 L 666.16 192.69 L 674.95 192.62 L 677.73 192.54 L 683.52 192.46 L 691.85 192.39 L 695.41 192.31 L 714.31 191.86 L 717.08 191.71 L 772.30 190.95 L 781.40 190.72 L 800.86 189.44 L 806.42 188.53 L 812.20 188.08 L 840.00 188.00"/>
       <text class="axis mono" x="462.0" y="237">32.8B</text>
     </g>
     <text class="muted" x="36" y="269">Current: nearest 0.1B, combined before publication</text>
-    <text class="muted" x="864" y="269" text-anchor="end">History: 21 distinct public checkpoints · no per-source readings</text>
+    <text class="muted" x="864" y="269" text-anchor="end">History: 22 distinct public checkpoints · no per-source readings</text>
   </g>
   <g class="github-module" role="group" aria-labelledby="github-module-title github-module-desc">
     <desc id="github-module-desc">GitHub activity, last five years at weekly grain. Totals: 3,201 commits, 31,565,587 additions, 30,951,173 deletions, and 160 active weeks. The commit axis uses log1p; the signed additions and deletions axis uses symmetric log.</desc>
