@@ -4,9 +4,9 @@
 
 ## Codex + GitHub
 
-[![Rounded combined-lifetime Codex checkpoint trend and five years of weekly GitHub activity with labeled y-axes.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![One dated rounded combined-lifetime Codex snapshot, a rough API-rate reference when available, and five years of weekly GitHub activity with labeled y-axes.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Lifetime tokens + five years of GitHub activity._
+_One dated lifetime snapshot + five years of weekly GitHub activity._
 
 <!--
 ### Stats for nerds
