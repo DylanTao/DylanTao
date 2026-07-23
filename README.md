@@ -2,11 +2,11 @@
 
 #### Sirui is pronounced as <strong>"three"</strong>.
 
-## Codex + GitHub
+## Tracking Monkey Typing
 
-[![One dated rounded combined-lifetime Codex snapshot, a site-build token rhythm, a rough API-rate reference when available, and five years of weekly GitHub activity with labeled y-axes.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Tracking Monkey Typing: five years of weekly commits and line changes with labeled y-axes, plus one dated rounded lifetime-token snapshot and a rough API-rate reference when available.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_One dated lifetime snapshot + site-build token rhythm + five years of weekly GitHub activity._
+_Five years of commits and line movement, plus one dated lifetime-token snapshot._
 
 <!--
 ### Stats for nerds
