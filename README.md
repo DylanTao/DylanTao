@@ -4,9 +4,9 @@
 
 ## Tracking Monkey Typing
 
-[![Tracking Monkey Typing: five years of weekly commits and line changes with labeled y-axes, plus one dated rounded lifetime-token snapshot and a rough API-rate reference when available.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Tracking Monkey Typing: five years of weekly commits, signed line changes, and observed combined lifetime tokens on aligned date axes with labeled y-axes.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Five years of commits and line movement, plus one dated lifetime-token snapshot._
+_Five years of commits and line movement, plus anonymous observed combined lifetime-token history._
 
 <!--
 ### Stats for nerds
