@@ -4,9 +4,9 @@
 
 ## Tracking Monkey Typing
 
-[![Tracking Monkey Typing: five years of personal daily commits and code movement, plus cumulative Codex token history with Claude joining later.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Tracking Monkey Typing: lifetime weekly GitHub-credited and authored commits, authored line movement, and a dated recent Codex and Claude token inset.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Five years of personal-only daily code movement, rebuilt from complete UTC days._
+_Lifetime personal code movement, rebuilt from completed GitHub profile author-date days; line counts follow authored, non-merge, non-deploy commits._
 
 <!--
 ### Stats for nerds
