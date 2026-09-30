@@ -4,9 +4,9 @@
 
 ## Tracking Monkey Typing
 
-[![Tracking Monkey Typing: lifetime weekly GitHub-credited and authored commits.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+[![Tracking Monkey Typing: lifetime weekly total and authored commits.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
 
-_Lifetime personal commit rhythm, rebuilt from completed GitHub profile author-date days. Authored commits exclude merges and deploys._
+_Lifetime personal commits from eligible repository branches, grouped by week on a square-root scale. Authored commits exclude merges and deploys. GitHub's contribution calendar also counts pull requests, issues, reviews, and some commits from replaced history._
 
 <!--
 ### Stats for nerds
