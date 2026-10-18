@@ -4,9 +4,15 @@
 
 ## Tracking Monkey Typing
 
-[![Tracking Monkey Typing: lifetime weekly total and authored commits.](./assets/github-metrics.svg)](https://dylantao.github.io/github-activity/)
+<a href="https://dylantao.github.io/github-activity/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-metrics-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-metrics.svg">
+    <img alt="Tracking Monkey Typing: commits per month since 2017 on a log scale, with each year's total." src="./assets/github-metrics.svg">
+  </picture>
+</a>
 
-_Lifetime personal commits from eligible repository branches, grouped by week on a square-root scale. Authored commits exclude merges and deploys. GitHub's contribution calendar also counts pull requests, issues, reviews, and some commits from replaced history._
+_One monkey, one keyboard: every commit I've landed on the default and Pages branches of the repos I own or work in, private ones included. The log scale is the only way 2026 fits on the same chart as everything before it. GitHub's green calendar also counts PRs, issues, and reviews, so it won't match exactly._
 
 <!--
 ### Stats for nerds
