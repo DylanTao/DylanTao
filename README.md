@@ -8,11 +8,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-metrics-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/github-metrics.svg">
-    <img alt="Tracking Monkey Typing: commits per month since 2017 on a log scale, with each year's total." src="./assets/github-metrics.svg">
+    <img alt="Tracking Monkey Typing: GitHub contributions per month since 2017 on a log scale, with each year's calendar total." src="./assets/github-metrics.svg">
   </picture>
 </a>
 
-_One monkey, one keyboard: every commit I've landed on the default and Pages branches of the repos I own or work in, private ones included. The log scale is the only way 2026 fits on the same chart as everything before it. GitHub's green calendar also counts PRs, issues, and reviews, so it won't match exactly._
+_One monkey, one keyboard: the contributions GitHub credits on my green calendar, private activity included as a count. Each year's total matches that calendar at the dated snapshot; today's count can keep growing. The log scale is the only way 2026 fits on the same chart as everything before it._
 
 <!--
 ### Stats for nerds
